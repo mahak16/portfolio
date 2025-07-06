@@ -71,7 +71,7 @@ const projects: ProjectType[] = [
     title: "Portfolio Website",
     description: "A personal portfolio website to showcase projects and skills.",
     image: "/PortfolioSS.png",
-    technologies: ["Next", "Tailwind CSS", "Three.js"],
+    technologies: ["react", "Tailwind CSS", "Three.js"],
     category: "next",
     githubLink: "https://github.com/mahakjiwnani/portfolio"
   },
@@ -91,7 +91,7 @@ const projects: ProjectType[] = [
     image: "/KaryasidhiSS.png",
     technologies: ["HTML", "CSS", "Tailwind", "JavaScript", "API"],
     category: "react",
-    githubLink: "https://github.com/mahakjiwnani/ai-chatbot"
+    githubLink: "https://github.com/mahak16/karyasidhi"
   },
   {
     id: 1,
@@ -100,7 +100,16 @@ const projects: ProjectType[] = [
     image: "/currConv.png",
     technologies: ["HTML", "CSS", "JavaScript"],
     category: "js",
-    githubLink: "https://github.com/mahak16/js_practice/tree/8254b2848ed7fe60457b29be3b8059a9cf01ae51/Bubble%20Game"
+    githubLink: "https://github.com/mahak16/js_practice/tree/master/curr_cnvtr"
+  },
+  {
+    id: 1,
+    title: "Music Classes Website",
+    description: "Developed a currency converter using JavaScript, enabling real-time exchange rate conversion through API integration.",
+    image: "/music.png",
+    technologies: ["HTML", "tailwind css", "Next","Acertainity UI"],
+    category: "js",
+    githubLink: "https://github.com/mahak16/MusicClass"
   },
   
 ];

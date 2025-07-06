@@ -5,7 +5,7 @@ import { Button } from '@/components/ui/button';
 
 const Hero = () => {
   return (
-    <section id="home" className="h-full flex items-center pt-16 relative overflow-hidden">
+    <section id="home" className="min-h-screen flex items-center pt-16 relative overflow-hidden">
       {/* Gradient background */}
       <div className="absolute inset-0 bg-gradient-to-br from-portfolio-purple/5 to-portfolio-teal/5 -z-10"></div>
       
